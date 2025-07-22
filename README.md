@@ -3,10 +3,11 @@ This is node base application required mongodb version 6 to connect it.
 
 create env file and add below.---->
 
-MONGO_DB=65.1.110.58 (IP depend upon your serevr)
-DB_USER=admin
-DB_PASSWD=admin123
-DB_NAME=NodeJs_Mastery_Course
+MONGO_DB=65.1.110.58 (IP depend upon your serevr)----
+DB_USER=admin ---
+DB_PASSWD=admin123 ---
+DB_NAME=NodeJs_Mastery_Course  ---
+NODE_PORT=3000  ---
 
 
 -------
